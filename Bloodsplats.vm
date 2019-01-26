@@ -1,9 +1,9 @@
 [BEGINVDF]
-Comment=LeGo Bloodsplats%%NBloodsplat textures from CGTextures.com (now textures.com).%%NNinja <http://tiny.cc/GothicNinja>
-VDFName=.\Ninja_Bloodsplats.vdf
+Comment=LeGo Bloodsplats%%NBloodsplat textures from CGTextures.com (now textures.com).
+VDFName=.\Bloodsplats.vdf
 
 [FILES]
-README_Bloodsplats.md
+README_Bloodsplats.txt
 
 ; Resources (list the specific files from _work here)
 _work\Data\Textures\_compiled\Bloodsplat*-C.tex
@@ -12,9 +12,6 @@ _work\Data\Textures\_compiled\Bloodsplat*-C.tex
 Ninja\Ikarus\* -r
 Ninja\LeGo\* -r
 Ninja\Bloodsplats\* -r
-
-; Ninja files
-*.patch
 
 [EXCLUDE]
 _work\Data\Scripts\* -r
