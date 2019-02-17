@@ -3,14 +3,10 @@ Comment=LeGo Bloodsplats%%NBloodsplat textures from CGTextures.com (now textures
 VDFName=.\Bloodsplats.vdf
 
 [FILES]
-README_Bloodsplats.txt
-
 ; Resources (list the specific files from _work here)
 _work\Data\Textures\_compiled\Bloodsplat*-C.tex
 
 ; Script files
-Ninja\Ikarus\* -r
-Ninja\LeGo\* -r
 Ninja\Bloodsplats\* -r
 
 [EXCLUDE]
