@@ -1,5 +1,6 @@
 [BEGINVDF]
 Comment=LeGo Bloodsplats%%NBloodsplat textures from CGTextures.com (now textures.com).
+BaseDir=.\
 VDFName=.\Bloodsplats.vdf
 
 [FILES]
