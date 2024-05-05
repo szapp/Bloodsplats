@@ -1,0 +1,10 @@
+# This file is required for the patch-validator to work and may contain advanced configuration options
+# For more information, visit https://github.com/szapp/patch-validator/#configuration
+
+prefix:
+ignore-declaration:
+  # Taken from LeGo - assume it's unaltered
+  HERO_HURT
+ignore-resource:
+  # Take from LeGo - assume these are unaltered
+  _work/Data/Textures/_compiled/Bloodsplat*-C.tex
