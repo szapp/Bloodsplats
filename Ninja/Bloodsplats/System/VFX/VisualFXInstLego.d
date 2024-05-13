@@ -6,7 +6,7 @@
  * und gehört in Scripts/System/VisualFX/VisualFxInst.d
  */
 
-instance HERO_HURT(CFx_Base_Proto)
+instance HERO_HURT(/*CFx_Base_Proto*/ Patch_Bloodsplats_CFx_Base_Proto)
 {
     visName_S = "screenblend.scx";
     userString[0] = "0.1";
