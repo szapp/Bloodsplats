@@ -8,3 +8,12 @@ updates:
     interval: "weekly"
   ignore:
     - dependency-name: "kirides/vdfsbuilder"
+  groups:
+    version:
+      applies-to: version-updates
+      patterns:
+        - "*"
+    security:
+      applies-to: security-updates
+      patterns:
+        - "*"
